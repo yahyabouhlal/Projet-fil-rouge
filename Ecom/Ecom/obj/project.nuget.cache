@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QFOksKbe2Cbxo72q9DSV47DQSxWIS9+jx5dDrClVj8xJZYIeugTnDUgts7E0BiwXDXO0/LfhuSZ/+5zNmT605A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Youcode\\Documents\\GitHub\\Projet-fil-rouge\\Ecom\\Ecom\\Ecom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Youcode\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Youcode\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Youcode\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Youcode\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Youcode\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
